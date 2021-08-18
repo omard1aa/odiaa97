@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar Diaa
 - 👀 I’m interested in Computer Science, Software Engineering & Backend Development
 - 🌱 I’m currently learning .Net core, Azure and Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Backend development
 - 📫 [Linkedin Profile](https://www.linkedin.com/in/odiaa97)
 
 <!---
