@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Diaa
+- 👋 Hi, I’m Omar Diaa. I'm a Full-stack Engineer @ Teleperformance
 - 👀 I’m interested in Computer Science, Software & Backend Engineering.
 - 🌱 I’m currently focusing on .Net Core Web APIs.
 - 💞️ I’m looking to collaborate on Open-Source Backend development.
