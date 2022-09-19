@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/odiaa97](https://www.linkedin.com/in/odiaa97)
 
-- 💬 Ask me about **.Net Core**
+- 💬 Ask me about **.Net Core** and **NodeJS**
 
 - 📫 How to reach me **OmarDiaa27@gmail.com**
 
