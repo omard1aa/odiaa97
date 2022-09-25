@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar Diaa</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">I'm a passionate Backend Software Engineer</h3>
 
 - 🌱 I’m currently learning **Backend engineering**
 
-- 👨‍💻 All of my projects are available at [https:/github.com/odiaa97](https:/github.com/odiaa97)
+- 👨‍💻 All of my projects are available at [https://github.com/odiaa97?tab=repositories](https://github.com/odiaa97?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/odiaa97](https://www.linkedin.com/in/odiaa97)
 
-- 💬 Ask me about **.Net Core** and **NodeJS**
+- 💬 Ask me about **NodeJS** and **.Net Core**
 
 - 📫 How to reach me **OmarDiaa27@gmail.com**
 
